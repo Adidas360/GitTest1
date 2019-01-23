@@ -9,6 +9,7 @@ namespace GitTest1
             Console.WriteLine("Fredrik1");
             Console.WriteLine("Hello LEEEEXICONNNNNN! Let me go home.");
             Console.WriteLine("Message from John");
+            Console.WriteLine("Fredrik2");
         }
     }
 }
